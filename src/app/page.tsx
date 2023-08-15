@@ -209,7 +209,7 @@ export default function Home() {
               {Number(score) >= 20 ? 'Estas multiplicando tu donación' : ''}
             </p>
           ) : isLoading ? (
-            <div>
+            <div className={`${connected ? 'block' : 'hidden'}`}>
               <Image className='animate-spin' src={spinner as any} alt='Spinner' />
             </div>
           ) : (
