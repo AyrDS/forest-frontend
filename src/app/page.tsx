@@ -177,7 +177,7 @@ export default function Home() {
   return (
     <>
       <main className='relative mx-[10vw] flex-1'>
-        <Image src={forestLogo} alt='Fork Fores Logo' className='mx-auto min-w-[160px] pt-5 md:pt-10' />
+        <Image src={forestLogo as any} alt='Fork Fores Logo' className='mx-auto min-w-[160px] pt-5 md:pt-10' />
         <p className='mt-8 text-center leading-[22px] md:mx-auto md:w-[70%] md:text-[22px]'>
           Es un proyecto ReFi que trabaja con herramientas web3 al servicio de los valores de conservación ambiental y
           responsabilidad social, además de promover la participación de la comunidad local en la restauración del medio
@@ -210,7 +210,7 @@ export default function Home() {
             </p>
           ) : isLoading ? (
             <div>
-              <Image className='animate-spin' src={spinner} alt='Spinner' />
+              <Image className='animate-spin' src={spinner as any} alt='Spinner' />
             </div>
           ) : (
             <p className={`${connected && !score ? 'block' : 'hidden'}`}>No tienes puntos en este momento</p>
@@ -221,7 +221,7 @@ export default function Home() {
         <div className='flex items-center justify-center gap-3'>
           {icons.map(({ alt, icon, href, className }) => (
             <Link key={alt} target='_blank' href={href}>
-              <Image src={icon} alt={alt} className={className} />
+              <Image src={icon as any} alt={alt} className={className} />
             </Link>
           ))}
         </div>
