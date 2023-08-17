@@ -41,7 +41,7 @@ const icons = [
   {
     icon: twitterLogo,
     alt: 'Twitter Icon',
-    href: 'https://twitter.com/ForkForest?t=tzFGGYP3Qie3eCcTOkpaeQ&s=09',
+    href: 'https://twitter.com/ForkForest',
     className: '',
   },
   {
