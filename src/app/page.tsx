@@ -217,7 +217,7 @@ export default function Home() {
           )}
         </div>
       </main>
-      <footer className='mt-5'>
+      <footer className='mt-5 pb-3'>
         <div className='flex items-center justify-center gap-3'>
           {icons.map(({ alt, icon, href, className }) => (
             <Link key={alt} target='_blank' href={href}>
