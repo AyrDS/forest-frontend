@@ -33,7 +33,7 @@ const links = [
   },
   {
     label: 'Aportá en Gitcoin',
-    href: 'https://builder.gitcoin.co/#/chains/10/registry/0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174/projects/881',
+    href: 'https://explorer.gitcoin.co/#/round/10/0xb6be0ecafdb66dd848b0480db40056ff94a9465d/0xb6be0ecafdb66dd848b0480db40056ff94a9465d-72',
   },
 ];
 
