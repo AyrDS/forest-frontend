@@ -1,0 +1,17 @@
+{
+  "index": {
+    "title": "What is Fork Forest?",
+    "description": "It is a ReFi project that works with web3 tools to serve the values of environmental conservation and social responsibility, in addition to promoting the participation of the local community in the restoration of the environment.",
+    "buttons": {
+      "spotify": "Podcast on Spotify",
+      "gitcoin": "Contribute in Gitcoin",
+      "wallet": "Connect your wallet with Gitcoin Passport",
+      "yourPass": "Your Gitcoin passport",
+      "needPoints": "You need 20 points to multiply your donation",
+      "current": "You currently have",
+      "points": "points in your Gitcoin Passport",
+      "multiply": "You are multiplying your donation",
+      "noPoints": "You have no points at this time"
+    }
+  }
+}
