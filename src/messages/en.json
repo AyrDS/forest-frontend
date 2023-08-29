@@ -11,7 +11,29 @@
       "current": "You currently have",
       "points": "points in your Gitcoin Passport",
       "multiply": "You are multiplying your donation",
-      "noPoints": "You have no points at this time"
+      "noPoints": "You have no points at this time",
+      "more": "More details"
+    },
+    "project1": {
+      "description": "Collaboration of ForkDAO in the search for funding for the first stage of the Forest Barrier project in Los Cerrillos. The project, led by seventh grade students of the secondary school “I.P.E.A N° 230 Dr. Amadeo Sabattini“, seeks to mitigate the exposure to agrochemicals derived from extensive crops and improve the quality of life of the local community.",
+      "motivationTitle": "Motivation",
+      "motivation": "Esta colaboración refleja nuestro firme compromiso con los valores de responsabilidad social y la promoción de proyectos de impacto positivo. Agradecemos profundamente el apoyo continuo de la comunidad de ForkDAO en esta trascendental fase de búsqueda de financiamiento.",
+      "financingTitle": "Project financing",
+      "financingP1": "The ForkDAO community has decided to take an active role in raising financial resources for the first stage of this crucial project.",
+      "financingP2": "We recognize the importance of this initiative to the well-being of the people of Los Cerrillos and, as such, we are dedicating our resources and expertise to ensure the success of this initial phase.",
+      "financingP3": "We will apply to different funding programs available in the ecosystem, such as FORK FOREST, in order to raise the necessary funds to realize the project. On this occasion, we will submit our application in the next round of Gitcoin.",
+      "financingP4": "For this purpose we have a multi-signature wallet in the Optimisim network: oeth:0x84E420915147625c11c265FA61AEC826347204D1",
+      "communicationTitle": "Communication and outreach",
+      "communication": "Report of all activities including audio and video recording. Monitoring reports will be made every 6 months to evaluate the implementation of the forest curtain. 2 videos of the participatory mural, the music festival and photographic production for dissemination. Live communications on Zapam Zucum and ForkDAO social networks.",
+      "collaborationTitle": "Collaboration strategy",
+      "collaborationSubTitle1": "Rigorous research",
+      "collaborationP1": "Our team of experts will conduct extensive research in search of funding opportunities in the Web3 ecosystem environment. Carefully evaluate DeFi protocols, crowdfunding platforms and grant programs that are aligned with the values and objectives outlined by the Forest Barrier project.",
+      "collaborationSubTitle2": "Preparation of proposals",
+      "collaborationP2": "Based on the research findings, we will prepare strong and detailed proposals in order to apply for the necessary funding. Each proposal will be carefully designed to convincingly demonstrate the feasibility and positive effects that the first stage of the project will bring.",
+      "collaborationSubTitle3": "Transparency and Continuous Communication",
+      "collaborationP3": "We will maintain transparent and continuous communication with the ForkDAO community at all stages of the process. We will share updates on applications submitted, responses received and significant progress made in the search for funding.",
+      "collaborationSubTitle4": "Responsible Management of Funds",
+      "collaborationP4": "Should we obtain the necessary funding, we will manage the resources with the highest level of accountability and transparency. The funds will be allocated prudently to different areas of the first stage, in accordance with previously agreed requirements and priorities."
     }
   }
 }

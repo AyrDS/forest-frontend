@@ -1,19 +1,18 @@
-import React from 'react';
 import Link from 'next/link';
+import { HTMLAttributeAnchorTarget } from 'react';
 
 interface Props {
   href: string;
   label: string;
+  target?: HTMLAttributeAnchorTarget | undefined;
 }
 
-export const CustomLink = ({ href, label }: Props) => {
+export const CustomLink = ({ href, label, target }: Props) => {
   return (
-    <Link
-      target='_blank'
-      href={href}
-      className='w-full rounded-[50px] border border-[#1F1F1F] bg-[#1F1F1F] py-2 text-center text-white transition-colors duration-300 hover:bg-white hover:text-black md:w-1/2'
-    >
-      {label}
-    </Link>
+    <div className='mx-auto w-[170px] flex-1 cursor-pointer rounded-[100px] border border-[#1F1F1F] bg-[#1F1F1F] py-2 text-center text-white transition-colors duration-300 hover:bg-white hover:text-black'>
+      <Link target={target} href={href} className='inline-block w-full xl:text-[18px]'>
+        {label}
+      </Link>
+    </div>
   );
 };

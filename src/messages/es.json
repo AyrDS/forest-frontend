@@ -11,7 +11,29 @@
       "current": "Actualmente tienes",
       "points": "puntos en tu Gitcoin Passport",
       "multiply": "Estas multiplicando tu donación",
-      "noPoints": "No tienes puntos en este momento"
+      "noPoints": "No tienes puntos en este momento",
+      "more": "Más detalles"
+    },
+    "project1": {
+      "description": "Colaboración de ForkDAO en la búsqueda de financiamiento para la primera etapa del proyecto de la Barrera Forestal en Los Cerrillos. Proyecto, liderado por estudiantes de séptimo año de la escuela secundaria “I.P.E.A N° 230 Dr. Amadeo Sabattini”, busca mitigar la exposición a agroquímicos derivados de cultivos extensivos y mejorar la calidad de vida de la comunidad local.",
+      "motivationTitle": "Motivación",
+      "motivation": "Esta colaboración refleja nuestro firme compromiso con los valores de responsabilidad social y la promoción de proyectos de impacto positivo. Agradecemos profundamente el apoyo continuo de la comunidad de ForkDAO en esta trascendental fase de búsqueda de financiamiento.",
+      "financingTitle": "Financiación del proyecto",
+      "financingP1": "La comunidad de ForkDAO ha decidido asumir un papel activo en la obtención de recursos financieros para la primera etapa de este proyecto crucial",
+      "financingP2": "Reconocemos la importancia de esta iniciativa para el bienestar de la población en Los Cerrillos y, como tal, estamos dedicando nuestros recursos y experiencia para asegurar el éxito de esta fase inicial.",
+      "financingP3": "Nos presentaremos a diferentes programas de financiamiento disponibles en el ecosistema, como FORK FOREST, con el objetivo de recaudar los fondos necesarios para realizar el proyecto. En esta ocasión, presentaremos nuestra solicitud en la próxima ronda de Gitcoin.",
+      "financingP4": "Para tal fin contamos con una Wallet multifirma en la red Optimisim: oeth:0x84E420915147625c11c265FA61AEC826347204D1",
+      "communicationTitle": "Comunicación y divulgación",
+      "communication": "Informe de todas las actividades que incluyen registro de audio y video. Se realizarán planillas de monitoreo cada 6 meses que resulten pertinentes para evaluar la implementación de la cortina forestal. 2 videos del mural participativo, del festival musical y producción fotográfica para divulgación. Comunicaciones en vivo en las redes sociales de Zapam Zucum y ForkDAO.",
+      "collaborationTitle": "Estrategia de colaboración",
+      "collaborationSubTitle1": "Investigación rigurosa",
+      "collaborationP1": "Nuestro equipo de expertos llevará a cabo una investigación exhaustiva en busca de oportunidades de financiamiento en el entorno del ecosistema Web3. Evaluar con detenimiento protocolos DeFi, plataformas de financiamiento colectivo y programas de subvenciones que estén alineados con los valores y los objetivos delineados por el proyecto de la Barrera Forestal.",
+      "collaborationSubTitle2": "Elaboración de Propuestas",
+      "collaborationP2": "Basándonos en los hallazgos de la investigación, prepararemos propuestas sólidas y detalladas con el fin de solicitar los fondos necesarios. Cada propuesta se concebirá minuciosamente para demostrar de manera convincente la viabilidad y los efectos positivos que la primera etapa del proyecto acarreará.",
+      "collaborationSubTitle3": "Transparencia y Comunicación Continua",
+      "collaborationP3": "Mantendremos una comunicación transparente y continua con la comunidad de ForkDAO en todas las fases del proceso. Compartiremos actualizaciones acerca de las solicitudes presentadas, las respuestas recibidas y los avances significativos que se registren en la búsqueda de financiamiento.",
+      "collaborationSubTitle4": "Gestión Responsable de los Fondos",
+      "collaborationP4": "En el caso de obtener el financiamiento necesario, administraremos los recursos con el máximo nivel de responsabilidad y transparencia. Los fondos se asignarán de manera prudente a distintas áreas de la primera etapa, en concordancia con los requisitos y prioridades previamente acordados."
     }
   }
 }
