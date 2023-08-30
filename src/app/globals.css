@@ -18,3 +18,11 @@ html {
 .item-large {
   grid-column: span 2;
 }
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.sidebar {
+  background: linear-gradient(180deg, #ecf39e 0%, #ffffff 100%);
+}

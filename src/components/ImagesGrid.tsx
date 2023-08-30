@@ -8,7 +8,7 @@ import photo5 from '@/assets/5.jpg';
 
 export const ImagesGrid = () => {
   return (
-    <div className='mx-auto w-[60vw] max-[285px]:w-full min-[500px]:w-[40vw] md:w-[30vw] xl:w-[100vw] 2xl:w-[60vw]'>
+    <div className='mx-auto w-[65vw] max-[285px]:w-full min-[500px]:w-[40vw] md:w-[30vw] xl:w-[100vw] 2xl:w-[60vw]'>
       <div className='image-container-grid'>
         <Image
           src={photo4}
@@ -33,7 +33,7 @@ export const ImagesGrid = () => {
         <Image
           src={photo5}
           alt='Imagen de Grilla'
-          className='item-row mx-auto h-[95px] w-[120px] rounded-[25px] object-cover xl:h-[150px] xl:w-[145px]'
+          className='item-row mx-auto h-[95px] w-[120px] rounded-[25px] object-cover object-center xl:h-[150px] xl:w-[145px]'
         />
       </div>
     </div>

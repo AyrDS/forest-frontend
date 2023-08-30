@@ -58,7 +58,7 @@ export default function Home() {
           <div className='pb-5 xl:mx-auto xl:flex xl:w-[75%] xl:items-center xl:gap-3 xl:pb-0'>
             <p className='text-[16px] leading-[22px] xl:text-[22px] xl:leading-[28px]'>{t('project1.motivation')}</p>
             <div className='mt-4 text-center xl:mt-0 xl:w-full xl:self-start'>
-              <CustomLink href='los-cerrillos' label='Fork DAO' />
+              <CustomLink href='' label='Fork DAO' />
             </div>
           </div>
         </Accordion>
