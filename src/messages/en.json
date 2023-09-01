@@ -3,8 +3,8 @@
     "title": "What is Fork Forest?",
     "description": "It is a ReFi project that works with web3 tools to serve the values of environmental conservation and social responsibility, in addition to promoting the participation of the local community in the restoration of the environment.",
     "buttons": {
-      "spotify": "Podcast on Spotify",
-      "gitcoin": "Contribute in Gitcoin",
+      "spotify": "Podcast",
+      "gitcoin": "Project in Gitcoin",
       "wallet": "Connect your wallet with Gitcoin Passport",
       "yourPass": "Your Gitcoin passport",
       "needPoints": "You need 20 points to multiply your donation",
@@ -17,7 +17,7 @@
     "project1": {
       "description": "Collaboration of ForkDAO in the search for funding for the first stage of the Forest Barrier project in Los Cerrillos. The project, led by seventh grade students of the secondary school “I.P.E.A N° 230 Dr. Amadeo Sabattini“, seeks to mitigate the exposure to agrochemicals derived from extensive crops and improve the quality of life of the local community.",
       "motivationTitle": "Motivation",
-      "motivation": "Esta colaboración refleja nuestro firme compromiso con los valores de responsabilidad social y la promoción de proyectos de impacto positivo. Agradecemos profundamente el apoyo continuo de la comunidad de ForkDAO en esta trascendental fase de búsqueda de financiamiento.",
+      "motivation": "This collaboration reflects our strong commitment to the values of social responsibility and the promotion of positive impact projects. We are deeply grateful for the continued support of the ForkDAO community in this momentous phase of fundraising.",
       "financingTitle": "Project financing",
       "financingP1": "The ForkDAO community has decided to take an active role in raising financial resources for the first stage of this crucial project.",
       "financingP2": "We recognize the importance of this initiative to the well-being of the people of Los Cerrillos and, as such, we are dedicating our resources and expertise to ensure the success of this initial phase.",

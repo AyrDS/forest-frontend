@@ -13,12 +13,31 @@ interface Props extends PropsWithChildren {
 
 export const Accordion = ({ children, label, buttonClassName, containerClassName }: Props) => {
   const [expanded, setExpanded] = useState(false);
+  const [width, setWidth] = useState(window.innerWidth);
   const controls = useAnimation();
 
   const variants = {
     expanded: { opacity: 1, height: 'auto' },
     collapsed: { opacity: 0, height: 0 },
   };
+
+  useEffect(() => {
+    const handleResize = () => {
+      setWidth(window.innerWidth);
+    };
+
+    window.addEventListener('resize', handleResize);
+
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
+
+  useEffect(() => {
+    if (width >= 1280) {
+      setExpanded(true);
+    }
+  }, [width]);
 
   useEffect(() => {
     if (expanded) {

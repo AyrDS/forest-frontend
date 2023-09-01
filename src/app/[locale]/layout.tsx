@@ -5,6 +5,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { Navbar } from '@/components/Navbar';
 
 import '../globals.css';
+import { Footer } from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'Fork Forest',
@@ -41,6 +42,7 @@ export default async function RootLayout({
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Navbar />
           {children}
+          <Footer />
         </NextIntlClientProvider>
       </body>
     </html>
