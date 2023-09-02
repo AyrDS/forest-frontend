@@ -25,4 +25,9 @@ html {
 
 .sidebar {
   background: linear-gradient(180deg, #ecf39e 0%, #ffffff 100%);
+  background-image: url('../assets/fondo-ham.jpg');
+  background-position: top center;
+  background-size: cover;
+  /* background-position-y: 10vh; */
+  /* background-repeat: no-repeat; */
 }

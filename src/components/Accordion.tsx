@@ -48,9 +48,9 @@ export const Accordion = ({ children, label, buttonClassName, containerClassName
   }, [expanded]);
 
   return (
-    <section className={`mt-5 xl:mt-14 xl:flex xl:items-center xl:justify-center ${containerClassName}`}>
+    <section className={`mt-5 xl:mt-14 xl:flex xl:items-center ${containerClassName}`}>
       <button
-        className={`mx-auto flex items-center justify-center p-4 text-center text-[24px] font-semibold leading-[26px] text-black focus:outline-none xl:self-start ${buttonClassName}`}
+        className={`flex items-center justify-center p-4 text-center text-[24px] font-semibold leading-[26px] text-black focus:outline-none max-xl:mx-auto xl:self-start ${buttonClassName}`}
         onClick={() => setExpanded(!expanded)}
       >
         {label}

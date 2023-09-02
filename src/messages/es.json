@@ -35,5 +35,118 @@
       "collaborationSubTitle4": "Gestión Responsable de los Fondos",
       "collaborationP4": "En el caso de obtener el financiamiento necesario, administraremos los recursos con el máximo nivel de responsabilidad y transparencia. Los fondos se asignarán de manera prudente a distintas áreas de la primera etapa, en concordancia con los requisitos y prioridades previamente acordados."
     }
+  },
+
+  "forest1": {
+    "title": "Detalles del proyecto",
+    "description1": "Con el fin de mejorar las condiciones de vida de los habitantes, proponemos adquirir aproximadamente 1200 árboles para establecer una Barrera Forestal que cubrirá un área total de 51.000 m^2",
+    "description2": "La estructura de la barrera tendrá un ancho y longitud estimados de 3100m lineales y se utilizarán especies de árboles resistentes a los agroquímicos.",
+
+    "details": {
+      "stages": {
+        "title": "Etapas",
+        "1": {
+          "title": "Primera etapa",
+          "day1": {
+            "title": "Sábado 16 de septiembre",
+            "plan": {
+              "1": "14:00 Charla con el Médico Medardo Ávila.",
+              "2": "15:30 Merienda.",
+              "3": "16:30 Plantación.",
+              "4": "19:30 Cierre musical. Barrial Brass Band."
+            }
+          },
+          "day2": {
+            "title": "Domingo 17 de septiembre",
+            "plan": {
+              "1": "14:00 Charla con Cesar Gramaglia",
+              "2": "Producción de papa libre de agroquímicos.",
+              "3": "15:30 Merienda.",
+              "4": "16:30 Plantación.",
+              "5": "19:30 Horario de Cierre de jornada."
+            }
+          }
+        },
+        "2": {
+          "title": "Segunda etapa",
+          "day1": {
+            "title": "Sábado 23 de septiembre",
+            "plan": {
+              "1": "14:00 Charla con Sofia Gatica y Madres B Ituzaingo",
+              "2": "15:30 Merienda.",
+              "3": "16:30 Plantación.",
+              "4": "19:30 Horario de Cierre de jornada"
+            }
+          },
+          "day2": {
+            "title": "Domingo 24 de septiembre",
+            "plan": {
+              "1": "14:00 Charla con Fernando Parra y alumnos de la escuela sobre el proyecto cortina forestal y objetivos",
+              "2": "15:30 Merienda.",
+              "3": "16:30 Plantación.",
+              "4": "19:30 Horario de Cierre de jornada"
+            }
+          }
+        },
+        "3": {
+          "title": "Tercera etapa",
+          "day1": {
+            "title": "Sábado 30 de septiembre",
+            "plan": {
+              "1": "14:00 Actividad Mural",
+              "2": "15:30 Merienda.",
+              "3": "16:30 Plantación.",
+              "4": "19:30 Cierre musical."
+            }
+          },
+          "day2": {
+            "title": "Domingo 1 de octubre",
+            "plan": {
+              "1": "14:00 Charla con Luciana Moreno. Secretaria de Ambiente M. VCP. Referente de 'Paren de Fumigar' Municipio libre de agroquimicos",
+              "2": "15:30 Merienda.",
+              "3": "16:30 Plantación + Actividad Mural",
+              "4": "19:30 Horario de Cierre de jornada"
+            }
+          }
+        },
+        "schedule": "Horarios sujetos a modificaciones."
+      },
+      "terrain": {
+        "title": "Estudio del terreno"
+      }
+    },
+
+    "back": "Volver"
+  },
+
+  "forest2": {
+    "title": "Detalles del proyecto",
+    "description1": "Iniciativa de conservación ecológica que llevó a cabo la Organización Zapam Zucum en cooperación con FORK DAO en la localidad de Villa de Las Rosas, provincia de Córdoba, Argentina. ",
+    "description2": "El objetivo del proyecto fue financiar una plantación de árboles nativos, mejorar las condiciones del terreno y la promoción de información a la comunidad, utilizando herramientas del ecosistema Crypto y web3.",
+
+    "financing": {
+      "title": "Financiación del proyecto",
+      "text1": "Se creó una colección de 50 NFTs a partir de un Smart Contract deployado en la red Polygon a cargo de Hernán DLF.",
+      "text2": "Cada NFT representa una porción del bosque nativo que fue reforestado el domingo 14 de mayo de 2023.",
+      "text3": "5 diseños únicos y auténticos, que se emitieron de forma aleatoria y estuvieron disponibles para colectar desde el sitio web de FORK DAO por el valor de 8 MATIC cada uno. La colección es de autoría del artista Ekeko.",
+      "text4": "Los fondos recaudados fueron a la wallet del único miembro que participa en las dos organizaciones (Fork Dao y Zapam Zucum), Max.",
+      "text5": "Finalizada la venta se enviaron los fondos a la wallet de la agrupación Zapam Zucum ",
+      "link": "Ver NFT's"
+    },
+    "terrain": {
+      "title": "Estudio del terreno",
+      "description": "La agrupación local Zapam Zucum junto a Max, Berty y Mario, realizaron visitas al territorio en recuperación, evaluando forestaciones previas y planificando la jornada."
+    },
+    "communication": {
+      "title": "Comunicación y divulgación",
+      "description": "La comunicació fue en redes sociales de Fork DAO realizando Twitter Spaces los días jueves a las 13 hs. Conducido por Nico y Max, producido por AnM, Fran y Monik. El diseño y gestión de POAP a cargo de Gauf y Muke. Anuncios periódicos, resúmenes de noticias y actualizaciones en el Tópico Refi a cargo de Tomas Mika."
+    },
+    "work": {
+      "title": "Trabajo en territorio",
+      "text1": "Zapam Zucum junto a Max, Berty y Julin, y quienes se sumaron a la jornada de plantación el dia 14 de Mayo del 2023, realizaron trabajos preparando el terreno y sembrando los plantines de arboles nativos (Cavado de pozos, creación de pircas, siembra de los especímenes, monitoreo de forestaciones anteriores).",
+      "text2": "La integración de herramientas y conceptos del ecosistema crypto/web3 en el proyecto “Fork Forest 01: Urkku” ha demostrado cómo la tecnología puede ser utilizada de manera creativa para impulsar iniciativas de conservación y educación ambiental.",
+      "text3": "La colaboración entre Zapam Zucum y FORK DAO es un modelo a seguir para futuras iniciativas similares en la comunidad local y más allá."
+    },
+    "back": "Volver"
   }
 }

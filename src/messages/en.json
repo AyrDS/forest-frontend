@@ -35,5 +35,115 @@
       "collaborationSubTitle4": "Responsible Management of Funds",
       "collaborationP4": "Should we obtain the necessary funding, we will manage the resources with the highest level of accountability and transparency. The funds will be allocated prudently to different areas of the first stage, in accordance with previously agreed requirements and priorities."
     }
+  },
+
+  "forest1": {
+    "title": "Project details",
+    "description1": "In order to improve the living conditions of the inhabitants, we propose to acquire approximately 1200 trees to establish a Forest Barrier that will cover a total area of 51,000 m^2.",
+    "description2": "The barrier structure will have an estimated width and length of 3100m and will use agrochemical resistant tree species.",
+
+    "details": {
+      "stages": {
+        "title": "Stages",
+        "1": {
+          "title": "First stage",
+          "day1": {
+            "title": "Saturday, September 16th",
+            "plan": {
+              "1": "14:00 Talk with Doctor Medardo Avila.",
+              "2": "15:30 Snack.",
+              "3": "16:30 Tree Planting.",
+              "4": "19:30 Musical Closure by Barrial Brass Band."
+            }
+          },
+          "day2": {
+            "title": "Sunday, September 17th",
+            "plan": {
+              "1": "14:00 Talk with Cesar Gramaglia",
+              "2": "Chemical-Free Potato Production.",
+              "3": "15:30 Snack.",
+              "4": "16:30 Tree Planting.",
+              "5": "19:30 End of Day Schedule."
+            }
+          }
+        },
+        "2": {
+          "title": "Second stage",
+          "day1": {
+            "title": "Saturday, September 23rd",
+            "plan": {
+              "1": "14:00 Talk with Sofia Gatica and Mothers from Ituzaingo",
+              "2": "15:30 Snack.",
+              "3": "16:30 Tree Planting.",
+              "4": "19:30 End of Day Schedule."
+            }
+          },
+          "day2": {
+            "title": "Sunday, September 24th",
+            "plan": {
+              "1": "14:00 Talk with Fernando Parra and students from the school about the forest curtain project and objectives",
+              "2": "15:30 Snack.",
+              "3": "16:30 Tree Planting.",
+              "4": "19:30 End of Day Schedule."
+            }
+          }
+        },
+        "3": {
+          "title": "Third stage",
+          "day1": {
+            "title": "Saturday, September 30th",
+            "plan": {
+              "1": "14:00 Mural Activity",
+              "2": "15:30 Snack.",
+              "3": "16:30 Tree Planting.",
+              "4": "19:30 Musical Closure."
+            }
+          },
+          "day2": {
+            "title": "Sunday, October 1st",
+            "plan": {
+              "1": "14:00 Talk with Luciana Moreno. Secretary of Environment M. VCP. Representative of 'Stop Spraying' Municipality free of agrochemicals",
+              "2": "15:30 Snack.",
+              "3": "16:30 Tree Planting + Mural Activity",
+              "4": "19:30 End of Day Schedule"
+            }
+          }
+        },
+        "schedule": "Schedules subject to change."
+      },
+      "terrain": {
+        "title": "Land survey"
+      }
+    },
+    "back": "Back"
+  },
+  "forest2": {
+    "title": "Project Details",
+    "description1": "An ecological conservation initiative carried out by the Zapam Zucum Organization in cooperation with FORK DAO in the town of Villa de Las Rosas, province of Córdoba, Argentina.",
+    "description2": "The project's objective was to finance a native tree plantation, improve land conditions, and promote information to the community using tools from the Crypto and web3 ecosystem.",
+    "financing": {
+      "title": "Project financing",
+      "text1": "A collection of 50 NFTs was created using a Smart Contract deployed on the Polygon network by Hernán DLF.",
+      "text2": "Each NFT represents a portion of the native forest that was reforested on Sunday, May 14, 2023.",
+      "text3": "5 unique and authentic designs were randomly minted and made available for collection on the FORK DAO website at a price of 8 MATIC each. The collection is authored by the artist Ekeko.",
+      "text4": "The funds raised were sent to the wallet of the sole member who participates in both organizations (Fork DAO and Zapam Zucum), Max.",
+      "text5": "Once the sale was completed, the funds were transferred to the Zapam Zucum organization's wallet.",
+      "link": "See NFT's"
+    },
+    "terrain": {
+      "title": "Land survey",
+      "description": "The local Zapam Zucum group, together with Max, Berty and Mario, made visits to the recovering territory, evaluating previous forestations and planning the journey."
+    },
+    "communication": {
+      "title": "Communication and Outreach",
+      "description": "Communication took place on Fork DAO's social media platforms with Twitter Spaces sessions held on Thursdays at 1 pm. Hosted by Nico and Max, produced by AnM, Fran, and Monik. POAP design and management were handled by Gauf and Muke. Periodic announcements, news summaries, and updates in the Refi Topic were managed by Tomas Mika."
+    },
+    "work": {
+      "title": "Field Work",
+      "text1": "Zapam Zucum, along with Max, Berty, and Julin, and those who joined the tree planting day on May 14, 2023, carried out work to prepare the land and plant native tree seedlings (digging holes, building stone walls, planting specimens, monitoring previous reforestations).",
+      "text2": "The integration of tools and concepts from the crypto/web3 ecosystem in the 'Fork Forest 01: Urkku' project has demonstrated how technology can be creatively used to drive conservation and environmental education initiatives.",
+      "text3": "The collaboration between Zapam Zucum and FORK DAO serves as a model for future similar initiatives within the local community and beyond."
+    },
+    "back": "Back"
   }
 }

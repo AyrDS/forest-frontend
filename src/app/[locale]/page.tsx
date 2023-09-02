@@ -36,7 +36,6 @@ export default function Home() {
         <ImagesGrid />
       </section>
 
-      {/* <ContainerButtons /> */}
       <div className='mt-9'>
         <h2 className='text-center text-[24px] font-semibold leading-[26px] xl:text-[30px]'>Fork Forest</h2>
         <h3 className='text-center text-[34px] font-extrabold leading-[36px] xl:text-[40px]'>Los Cerrillos</h3>
@@ -45,13 +44,13 @@ export default function Home() {
       <section className='xl:mx-auto xl:flex xl:w-[85%] xl:items-center xl:justify-center'>
         <p className='mt-4 text-[16px] leading-[22px] xl:text-[22px] xl:leading-[28px]'>{t('project1.description')}</p>
         <div className='mt-4 text-center xl:w-full'>
-          <CustomLink href='forkfores1' label={t('buttons.more')} />
+          <CustomLink href='forkforest2' label={t('buttons.more')} />
         </div>
       </section>
 
       {/* //!Motivación  */}
       <Accordion label={t('project1.motivationTitle')}>
-        <div className='pb-5 xl:mx-auto xl:flex xl:w-[75%] xl:items-center xl:gap-3 xl:pb-0'>
+        <div className='pb-5 xl:mx-auto xl:flex xl:w-[85%] xl:items-center xl:gap-3 xl:pb-0'>
           <p className='text-[16px] leading-[22px] xl:text-[22px] xl:leading-[28px]'>{t('project1.motivation')}</p>
           <div className='mt-4 text-center xl:mt-0 xl:w-full xl:self-start'>
             <CustomLink href='' label='Fork DAO' />
@@ -61,7 +60,7 @@ export default function Home() {
 
       {/* //!Financiacion  */}
       <Accordion label={t('project1.financingTitle')}>
-        <div className='pb-5 xl:mx-auto xl:flex xl:w-[75%] xl:items-center xl:gap-3 xl:pb-0'>
+        <div className='pb-5 xl:mx-auto xl:flex xl:w-[85%] xl:items-center xl:gap-3 xl:pb-0'>
           <div className='flex flex-col'>
             <div className='xl:order-2'>
               <Image
@@ -89,7 +88,7 @@ export default function Home() {
 
       {/* //!Comunicacion  */}
       <Accordion label={t('project1.communicationTitle')}>
-        <div className='pb-5 text-[16px] leading-[22px] xl:mx-auto xl:flex xl:w-[75%] xl:items-center xl:gap-3 xl:pb-0 xl:text-[22px] xl:leading-[28px]'>
+        <div className='pb-5 text-[16px] leading-[22px] xl:mx-auto xl:flex xl:w-[85%] xl:items-center xl:gap-3 xl:pb-0 xl:text-[22px] xl:leading-[28px]'>
           <p>{t('project1.communication')}</p>
           <div className='mt-8 text-center xl:mt-0 xl:w-full xl:self-start'>
             <CustomLink
@@ -103,7 +102,7 @@ export default function Home() {
 
       {/* //! Estrategia */}
       <Accordion label={t('project1.collaborationTitle')}>
-        <div className='pb-5 text-[16px] leading-[22px] xl:mx-auto xl:w-[75%] xl:pb-0 xl:text-[22px] xl:leading-[28px]'>
+        <div className='pb-5 text-[16px] leading-[22px] xl:mx-auto xl:w-[85%] xl:pb-0 xl:text-[22px] xl:leading-[28px]'>
           <div className='mb-4'>
             <p className='font-bold'>{t('project1.collaborationSubTitle1')}</p>
             <p>{t('project1.collaborationP1')}</p>

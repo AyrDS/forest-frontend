@@ -110,9 +110,15 @@ export const Navbar = () => {
   }, [pathname]);
 
   useEffect(() => {
+    const startAnimation = async () => {
+      path01Controls.start(path01Variants.closed);
+      await path02Controls.start(path02Variants.moving);
+      path02Controls.start(path02Variants.closed);
+    };
     if (open) {
       document.body.classList.add('no-scroll');
     } else {
+      startAnimation();
       setTimeout(() => {
         document.body.classList.remove('no-scroll');
       }, 750);
@@ -207,7 +213,12 @@ export const Navbar = () => {
                   </Link>
                 </div>
 
-                <Link href={''}>Fork Forest 2</Link>
+                <Link
+                  href={`${currentLang}/forkforest2`}
+                  className={`${pathname.includes('/forkforest2') ? 'font-bold' : ''}`}
+                >
+                  Fork Forest 2
+                </Link>
                 <Link
                   href={`${currentLang}/forkforest1`}
                   className={`${pathname.includes('/forkforest1') ? 'font-bold' : ''}`}
@@ -253,7 +264,7 @@ export const Navbar = () => {
           </Link>
         </div>
         <Link
-          href={''}
+          href={`${currentLang}/forkforest2`}
           className={`transition-all duration-300 hover:font-semibold ${
             pathname.includes('/forkforest2') ? 'font-bold' : ''
           }`}
@@ -286,9 +297,6 @@ export const Navbar = () => {
       </div>
 
       <button className='flex flex-col items-start justify-center gap-2 p-[2px] md:hidden' onClick={onClick}>
-        {/* <span className='mx-auto block h-[2px] w-[15px] bg-black' />
-        <span className='block h-[2px] w-[25px] bg-black' />
-        <span className='mx-auto block h-[2px] w-[15px] bg-black' /> */}
         <svg width='36' height='36' viewBox='0 0 24 24'>
           <motion.path
             {...path01Variants.closed}
