@@ -41,7 +41,7 @@ export default function Home() {
         <h3 className='text-center text-[34px] font-extrabold leading-[36px] xl:text-[40px]'>Los Cerrillos</h3>
       </div>
 
-      <section className='xl:mx-auto xl:flex xl:w-[85%] xl:items-center xl:justify-center'>
+      <section className='xl:mx-auto xl:w-[85%]'>
         <p className='mt-4 text-[16px] leading-[22px] xl:text-[22px] xl:leading-[28px]'>{t('project1.description')}</p>
         <div className='mt-4 text-center xl:w-full'>
           <CustomLink href='forkforest2' label={t('buttons.more')} />
@@ -50,9 +50,9 @@ export default function Home() {
 
       {/* //!Motivación  */}
       <Accordion label={t('project1.motivationTitle')}>
-        <div className='pb-5 xl:mx-auto xl:flex xl:w-[85%] xl:items-center xl:gap-3 xl:pb-0'>
+        <div className='pb-5 xl:mx-auto  xl:w-[85%] xl:pb-0'>
           <p className='text-[16px] leading-[22px] xl:text-[22px] xl:leading-[28px]'>{t('project1.motivation')}</p>
-          <div className='mt-4 text-center xl:mt-0 xl:w-full xl:self-start'>
+          <div className='mt-4 text-center xl:w-full xl:self-start'>
             <CustomLink href='' label='Fork DAO' />
           </div>
         </div>
@@ -60,7 +60,7 @@ export default function Home() {
 
       {/* //!Financiacion  */}
       <Accordion label={t('project1.financingTitle')}>
-        <div className='pb-5 xl:mx-auto xl:flex xl:w-[85%] xl:items-center xl:gap-3 xl:pb-0'>
+        <div className='pb-5 xl:mx-auto  xl:w-[85%] xl:pb-0'>
           <div className='flex flex-col'>
             <div className='xl:order-2'>
               <Image
@@ -76,7 +76,7 @@ export default function Home() {
               <p className='mb-4'>{t('project1.financingP4')}</p>
             </div>
           </div>
-          <div className='mt-4 text-center xl:mt-0 xl:w-full xl:self-start'>
+          <div className='mt-4 text-center xl:w-full xl:self-start'>
             <CustomLink
               href='https://explorer.gitcoin.co/#/round/10/0xb6be0ecafdb66dd848b0480db40056ff94a9465d/0xb6be0ecafdb66dd848b0480db40056ff94a9465d-72'
               target='_blank'
@@ -88,9 +88,9 @@ export default function Home() {
 
       {/* //!Comunicacion  */}
       <Accordion label={t('project1.communicationTitle')}>
-        <div className='pb-5 text-[16px] leading-[22px] xl:mx-auto xl:flex xl:w-[85%] xl:items-center xl:gap-3 xl:pb-0 xl:text-[22px] xl:leading-[28px]'>
+        <div className='pb-5 text-[16px] leading-[22px] xl:mx-auto  xl:w-[85%] xl:pb-0 xl:text-[22px] xl:leading-[28px]'>
           <p>{t('project1.communication')}</p>
-          <div className='mt-8 text-center xl:mt-0 xl:w-full xl:self-start'>
+          <div className='mt-8 text-center xl:w-full xl:self-start'>
             <CustomLink
               href='https://open.spotify.com/show/3mbOZyvQj2rGUpaBuXbgDk?si=wxjKFRorQ8S2BlQdZq9Z5g'
               target='_blank'

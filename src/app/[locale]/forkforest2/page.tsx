@@ -31,53 +31,53 @@ const Forest2 = () => {
         <div className='pb-5 text-[16px] leading-[22px] xl:mx-auto xl:pb-0 xl:text-[22px] xl:leading-[28px]'>
           <div className='mx-auto'>
             <p className='font-semibold'>{t('details.stages.1.title')}</p>
-            <p>{t('details.stages.1.day1.title')}</p>
-            <p className='mt-5'>{t('details.stages.1.day1.plan.1')}</p>
-            <p className='mt-1'>{t('details.stages.1.day1.plan.2')}</p>
-            <p className='mt-1'>{t('details.stages.1.day1.plan.3')}</p>
-            <p className='mt-1'>{t('details.stages.1.day1.plan.4')}</p>
+            {/* <p>{t('details.stages.1.day1.title')}</p> */}
+            <p className='mt-3'>{t('details.stages.1.day1.plan.1')}</p>
+            {/* <p className='mt-1'>{t('details.stages.1.day1.plan.2')}</p> */}
+            {/* <p className='mt-1'>{t('details.stages.1.day1.plan.3')}</p> */}
 
-            <p className='mt-5'>{t('details.stages.1.day2.title')}</p>
-            <p className='mt-5'>{t('details.stages.1.day2.plan.1')}</p>
+            {/* <p className='mt-5'>{t('details.stages.1.day2.title')}</p> */}
+            <p className='mt-1'>{t('details.stages.1.day2.plan.1')}</p>
             <p className='mt-1'>{t('details.stages.1.day2.plan.2')}</p>
             <p className='mt-1'>{t('details.stages.1.day2.plan.3')}</p>
             <p className='mt-1'>{t('details.stages.1.day2.plan.4')}</p>
-            <p className='mt-1'>{t('details.stages.1.day2.plan.5')}</p>
+            <p className='mt-1'>{t('details.stages.1.day1.plan.4')}</p>
+            {/* <p className='mt-1'>{t('details.stages.1.day2.plan.5')}</p> */}
           </div>
 
           <div className='mx-auto mt-10'>
             <p className='font-semibold'>{t('details.stages.2.title')}</p>
-            <p>{t('details.stages.2.day1.title')}</p>
+            {/* <p>{t('details.stages.2.day1.title')}</p> */}
 
-            <p className='mt-5'>{t('details.stages.2.day1.plan.1')}</p>
+            <p className='mt-3'>{t('details.stages.2.day1.plan.1')}</p>
+            {/* <p className='mt-1'>{t('details.stages.2.day1.plan.2')}</p> */}
+            {/* <p className='mt-1'>{t('details.stages.2.day1.plan.3')}</p> */}
+            {/* <p className='mt-1'>{t('details.stages.2.day1.plan.4')}</p> */}
+
+            {/* <p className='mt-5'>{t('details.stages.2.day2.title')}</p> */}
+            <p className='mt-1'>{t('details.stages.2.day2.plan.1')}</p>
             <p className='mt-1'>{t('details.stages.2.day1.plan.2')}</p>
             <p className='mt-1'>{t('details.stages.2.day1.plan.3')}</p>
-            <p className='mt-1'>{t('details.stages.2.day1.plan.4')}</p>
-
-            <p className='mt-5'>{t('details.stages.2.day2.title')}</p>
-            <p className='mt-5'>{t('details.stages.2.day2.plan.1')}</p>
-            <p className='mt-1'>{t('details.stages.2.day1.plan.2')}</p>
-            <p className='mt-1'>{t('details.stages.2.day1.plan.3')}</p>
-            <p className='mt-1'>{t('details.stages.2.day1.plan.4')}</p>
+            {/* <p className='mt-1'>{t('details.stages.2.day1.plan.4')}</p> */}
           </div>
 
           <div className='mx-auto mt-10'>
             <p className='font-semibold'>{t('details.stages.3.title')}</p>
-            <p>{t('details.stages.3.day1.title')}</p>
+            {/* <p>{t('details.stages.3.day1.title')}</p> */}
 
-            <p className='mt-5'>{t('details.stages.3.day1.plan.1')}</p>
-            <p className='mt-1'>{t('details.stages.3.day1.plan.2')}</p>
-            <p className='mt-1'>{t('details.stages.3.day1.plan.3')}</p>
-            <p className='mt-1'>{t('details.stages.3.day1.plan.4')}</p>
+            <p className='mt-3'>{t('details.stages.3.day1.plan.1')}</p>
+            {/* <p className='mt-1'>{t('details.stages.3.day1.plan.2')}</p> */}
+            {/* <p className='mt-1'>{t('details.stages.3.day1.plan.3')}</p> */}
+            {/* <p className='mt-1'>{t('details.stages.3.day1.plan.4')}</p> */}
 
-            <p className='mt-5'>{t('details.stages.3.day2.title')}</p>
-            <p className='mt-5'>{t('details.stages.3.day2.plan.1')}</p>
+            {/* <p className='mt-5'>{t('details.stages.3.day2.title')}</p> */}
+            <p className='mt-1'>{t('details.stages.3.day2.plan.1')}</p>
             <p className='mt-1'>{t('details.stages.3.day1.plan.2')}</p>
             <p className='mt-1'>{t('details.stages.3.day1.plan.3')}</p>
             <p className='mt-1'>{t('details.stages.3.day1.plan.4')}</p>
           </div>
 
-          <p className='mt-8 italic'>{t('details.stages.schedule')}</p>
+          {/* <p className='mt-8 italic'>{t('details.stages.schedule')}</p> */}
         </div>
       </Accordion>
 

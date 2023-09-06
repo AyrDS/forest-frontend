@@ -50,20 +50,20 @@
           "day1": {
             "title": "Sábado 16 de septiembre",
             "plan": {
-              "1": "14:00 Charla con el Médico Medardo Ávila.",
-              "2": "15:30 Merienda.",
-              "3": "16:30 Plantación.",
-              "4": "19:30 Cierre musical. Barrial Brass Band."
+              "1": "- Charla con el Médico Medardo Ávila.",
+              "2": "- Merienda.",
+              "3": "- Plantación.",
+              "4": "- Cierre musical. Barrial Brass Band."
             }
           },
           "day2": {
             "title": "Domingo 17 de septiembre",
             "plan": {
-              "1": "14:00 Charla con Cesar Gramaglia",
-              "2": "Producción de papa libre de agroquímicos.",
-              "3": "15:30 Merienda.",
-              "4": "16:30 Plantación.",
-              "5": "19:30 Horario de Cierre de jornada."
+              "1": "- Charla con Cesar Gramaglia",
+              "2": "- Producción de papa libre de agroquímicos.",
+              "3": "- Merienda.",
+              "4": "- Plantación.",
+              "5": "- Horario de Cierre de jornada."
             }
           }
         },
@@ -72,19 +72,19 @@
           "day1": {
             "title": "Sábado 23 de septiembre",
             "plan": {
-              "1": "14:00 Charla con Sofia Gatica y Madres B Ituzaingo",
-              "2": "15:30 Merienda.",
-              "3": "16:30 Plantación.",
-              "4": "19:30 Horario de Cierre de jornada"
+              "1": "- Charla con Sofia Gatica y Madres B Ituzaingo",
+              "2": "- Merienda.",
+              "3": "- Plantación.",
+              "4": "- Horario de Cierre de jornada"
             }
           },
           "day2": {
             "title": "Domingo 24 de septiembre",
             "plan": {
-              "1": "14:00 Charla con Fernando Parra y alumnos de la escuela sobre el proyecto cortina forestal y objetivos",
-              "2": "15:30 Merienda.",
-              "3": "16:30 Plantación.",
-              "4": "19:30 Horario de Cierre de jornada"
+              "1": "- Charla con Fernando Parra y alumnos de la escuela sobre el proyecto cortina forestal y objetivos",
+              "2": "- Merienda.",
+              "3": "- Plantación.",
+              "4": "- Horario de Cierre de jornada"
             }
           }
         },
@@ -93,19 +93,19 @@
           "day1": {
             "title": "Sábado 30 de septiembre",
             "plan": {
-              "1": "14:00 Actividad Mural",
-              "2": "15:30 Merienda.",
-              "3": "16:30 Plantación.",
-              "4": "19:30 Cierre musical."
+              "1": "- Actividad Mural",
+              "2": "- Merienda.",
+              "3": "- Plantación.",
+              "4": "- Cierre musical."
             }
           },
           "day2": {
             "title": "Domingo 1 de octubre",
             "plan": {
-              "1": "14:00 Charla con Luciana Moreno. Secretaria de Ambiente M. VCP. Referente de 'Paren de Fumigar' Municipio libre de agroquimicos",
-              "2": "15:30 Merienda.",
-              "3": "16:30 Plantación + Actividad Mural",
-              "4": "19:30 Horario de Cierre de jornada"
+              "1": "- Charla con Luciana Moreno. Secretaria de Ambiente M. VCP. Referente de 'Paren de Fumigar' Municipio libre de agroquimicos",
+              "2": "- Merienda.",
+              "3": "- Plantación + Actividad Mural",
+              "4": "- Horario de Cierre de jornada"
             }
           }
         },

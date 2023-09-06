@@ -50,20 +50,20 @@
           "day1": {
             "title": "Saturday, September 16th",
             "plan": {
-              "1": "14:00 Talk with Doctor Medardo Avila.",
-              "2": "15:30 Snack.",
-              "3": "16:30 Tree Planting.",
-              "4": "19:30 Musical Closure by Barrial Brass Band."
+              "1": "- Talk with Doctor Medardo Avila.",
+              "2": "- Snack.",
+              "3": "- Tree Planting.",
+              "4": "- Musical Closure by Barrial Brass Band."
             }
           },
           "day2": {
             "title": "Sunday, September 17th",
             "plan": {
-              "1": "14:00 Talk with Cesar Gramaglia",
+              "1": "- Talk with Cesar Gramaglia",
               "2": "Chemical-Free Potato Production.",
-              "3": "15:30 Snack.",
-              "4": "16:30 Tree Planting.",
-              "5": "19:30 End of Day Schedule."
+              "3": "- Snack.",
+              "4": "- Tree Planting.",
+              "5": "- End of Day Schedule."
             }
           }
         },
@@ -72,19 +72,19 @@
           "day1": {
             "title": "Saturday, September 23rd",
             "plan": {
-              "1": "14:00 Talk with Sofia Gatica and Mothers from Ituzaingo",
-              "2": "15:30 Snack.",
-              "3": "16:30 Tree Planting.",
-              "4": "19:30 End of Day Schedule."
+              "1": "- Talk with Sofia Gatica and Mothers from Ituzaingo",
+              "2": "- Snack.",
+              "3": "- Tree Planting.",
+              "4": "- End of Day Schedule."
             }
           },
           "day2": {
             "title": "Sunday, September 24th",
             "plan": {
-              "1": "14:00 Talk with Fernando Parra and students from the school about the forest curtain project and objectives",
-              "2": "15:30 Snack.",
-              "3": "16:30 Tree Planting.",
-              "4": "19:30 End of Day Schedule."
+              "1": "- Talk with Fernando Parra and students from the school about the forest curtain project and objectives",
+              "2": "- Snack.",
+              "3": "- Tree Planting.",
+              "4": "- End of Day Schedule."
             }
           }
         },
@@ -93,19 +93,19 @@
           "day1": {
             "title": "Saturday, September 30th",
             "plan": {
-              "1": "14:00 Mural Activity",
-              "2": "15:30 Snack.",
-              "3": "16:30 Tree Planting.",
-              "4": "19:30 Musical Closure."
+              "1": "- Mural Activity",
+              "2": "- Snack.",
+              "3": "- Tree Planting.",
+              "4": "- Musical Closure."
             }
           },
           "day2": {
             "title": "Sunday, October 1st",
             "plan": {
-              "1": "14:00 Talk with Luciana Moreno. Secretary of Environment M. VCP. Representative of 'Stop Spraying' Municipality free of agrochemicals",
-              "2": "15:30 Snack.",
-              "3": "16:30 Tree Planting + Mural Activity",
-              "4": "19:30 End of Day Schedule"
+              "1": "- Talk with Luciana Moreno. Secretary of Environment M. VCP. Representative of 'Stop Spraying' Municipality free of agrochemicals",
+              "2": "- Snack.",
+              "3": "- Tree Planting + Mural Activity",
+              "4": "- End of Day Schedule"
             }
           }
         },

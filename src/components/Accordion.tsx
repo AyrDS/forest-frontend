@@ -13,7 +13,7 @@ interface Props extends PropsWithChildren {
 
 export const Accordion = ({ children, label, buttonClassName, containerClassName }: Props) => {
   const [expanded, setExpanded] = useState(false);
-  const [width, setWidth] = useState(window.innerWidth);
+  const [width, setWidth] = useState(0);
   const controls = useAnimation();
 
   const variants = {
@@ -31,6 +31,10 @@ export const Accordion = ({ children, label, buttonClassName, containerClassName
     return () => {
       window.removeEventListener('resize', handleResize);
     };
+  }, []);
+
+  useEffect(() => {
+    setWidth(window.innerWidth);
   }, []);
 
   useEffect(() => {
