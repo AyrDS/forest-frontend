@@ -290,6 +290,7 @@ export const Navbar = () => {
           href={
             'https://explorer.gitcoin.co/#/round/10/0xb6be0ecafdb66dd848b0480db40056ff94a9465d/0xb6be0ecafdb66dd848b0480db40056ff94a9465d-72'
           }
+          target='_blank'
           className='transition-all duration-300 hover:font-semibold'
         >
           {t('gitcoin')}
