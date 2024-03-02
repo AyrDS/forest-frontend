@@ -84,7 +84,10 @@ const Forest2 = () => {
         <p className='mb-10 pb-5 text-[16px] leading-[22px] xl:mx-auto xl:pb-0 xl:text-[22px] xl:leading-[28px]'>
           {t('communication.description')}
         </p>
-        <CustomLink href='https://opensea.io/es/collection/forestnft-1' label='Podcast' />
+        <CustomLink
+          href='https://open.spotify.com/show/3mbOZyvQj2rGUpaBuXbgDk?si=wxjKFRorQ8S2BlQdZq9Z5g&nd=1&dlsi=90d35bb2db75433c'
+          label='Podcast'
+        />
       </Accordion>
 
       <Accordion label={t('work.title')}>
