@@ -115,7 +115,9 @@
         "title": "Land survey"
       }
     },
-    "back": "Back"
+    "back": "Back",
+    "gallery": "Gallery",
+    "ourWork": "Our work"
   },
   "forest2": {
     "title": "Project Details",
@@ -145,6 +147,8 @@
       "text3": "The collaboration between Zapam Zucum and FORK DAO serves as a model for future similar initiatives within the local community and beyond."
     },
     "back": "Back",
-    "gallery": "Gallery"
+    "gallery": "Gallery",
+    "ourWork": "Nuestro trabajo"
+
   }
 }
